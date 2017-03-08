@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;mfgp&gt;">
+    <CLASSES>
+      <root url="file://C:/work/src/github.com" />
+      <root url="file://C:/work/src/golang.org" />
+      <root url="file://C:/work/src/New folder" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://C:/work/src/github.com" />
+      <root url="file://C:/work/src/golang.org" />
+      <root url="file://C:/work/src/New folder" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
